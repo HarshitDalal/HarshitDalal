@@ -3,7 +3,6 @@
 # **<div align="center">Harshit Dalal</div>**  
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
-
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=harshitdalal&label=Profile%20views&color=0e75b6&style=flat"
         alt="harshitdalal" /> </p>
