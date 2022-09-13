@@ -89,14 +89,19 @@
 ## Github Stats  
 <div><img src="https://github-readme-stats.vercel.app/api?username=HarshitDalal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitDalal&hide_border=true&layout=compact" align="left" />  
+<br/>
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitDalal)
 
 <br/>  
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitDalal)](https://git.io/streak-stats)
  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=HarshitDalal&&style=flat-square" align="center" />
+[![Badge](https://cp-logo.vercel.app/codechef/harshit_d21)](https://www.codechef.com/users/harshit_d21)
+[![Badge](https://cp-logo.vercel.app/leetcode/HarshitDalal)](https://leetcode.com/HarshitDalal/)
 </div>  
   
 
