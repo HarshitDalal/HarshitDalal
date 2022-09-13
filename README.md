@@ -2,7 +2,7 @@
 ![logo](https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif)
 # **<div align="center">Harshit Dalal</div>**  
 <h3 align="center">A passionate Python developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
+<img align="right" alt="coding" width="250" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=harshitdalal&label=Profile%20views&color=0e75b6&style=flat"
         alt="harshitdalal" /> </p>
@@ -25,9 +25,9 @@
 
 
 ## My Skill Set  
+<div align="center">
+        
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -60,6 +60,8 @@
 
 </td></tr></table>  
 
+</div>
+
 <br/>  
 
 
@@ -87,16 +89,37 @@
 
 
 ## Github Stats  
+<div align="center">
+
 <div><img src="https://github-readme-stats.vercel.app/api?username=HarshitDalal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>
+</div>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitDalal)
+<br/>
+<div align="center">
+        
+[![](https://raw.githubusercontent.com/HarshitDalal/HarshitDalal/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+        
+</div>
+
+<div align="center">
+        
+[![](https://raw.githubusercontent.com/HarshitDalal/HarshitDalal/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/HarshitDalal/HarshitDalal/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+        
+</div>
+<div align="center">      
+        
+[![](https://raw.githubusercontent.com/HarshitDalal/HarshitDalal/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/HarshitDalal/HarshitDalal/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+        
+</div>
 
 <br/>  
 
+<div align="center">
+        
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitDalal)](https://git.io/streak-stats)
  
+</div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=HarshitDalal&&style=flat-square" align="center" />
