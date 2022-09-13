@@ -100,7 +100,9 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=HarshitDalal&&style=flat-square" align="center" />
+        
 [![Badge](https://cp-logo.vercel.app/codechef/harshit_d21)](https://www.codechef.com/users/harshit_d21)
+        
 [![Badge](https://cp-logo.vercel.app/leetcode/HarshitDalal)](https://leetcode.com/HarshitDalal/)
 </div>  
   
